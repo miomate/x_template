@@ -10,7 +10,8 @@ CRUD vanilla JS project, HTML table with buttons in table head, which allow to s
  https://img.shields.io/badge/status-stable-green.svg
 
 https://img.shields.io/badge/WIP-work%20in%20progress-yellow.svg
-![](name_gif.gif) //must be in repo
+![](name_gif.gif) 
+// adding gif, must be in repo
 
 
 ### Task
