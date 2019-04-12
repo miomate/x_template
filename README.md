@@ -7,6 +7,10 @@ CRUD vanilla JS project, HTML table with buttons in table head, which allow to s
 
 
 [wip-badge]:                        https://img.shields.io/badge/WIP-work%20in%20progress-yellow.svg
+ https://img.shields.io/badge/status-stable-green.svg
+
+https://img.shields.io/badge/WIP-work%20in%20progress-yellow.svg
+![](name_gif.gif) //must be in repo
 
 
 ### Task
